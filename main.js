@@ -32,7 +32,7 @@ function screenOutput(i) {
 
     case '0':
       console.log("Peace be upon you, Wise man.");
-      rl.close(); // Close the interface
+      rl.close(); 
       process.exit();
       break;
 
